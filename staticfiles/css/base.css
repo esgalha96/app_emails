@@ -4,22 +4,6 @@ body{
     min-height: 100vh;
 }
 
-@media (max-width: 1023px) {
-    body {
-        background-image: url('/static/img/Fluxo Financeiro Celular.png');
-        background-repeat: no-repeat;
-        background-position: center;
-    }
-}
-
-@media (min-width: 1024px) {
-    body {
-        background-image: url('/static/img/Fluxo Financeiro.png');
-    }
-}
-
-
-
 header{
     min-height: 5vh;
     background-color: rgba(0,0,0,0.9);
@@ -84,4 +68,3 @@ header{
     left: 35px;
 
 }
-
